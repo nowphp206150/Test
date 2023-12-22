@@ -1,1 +1,1 @@
-console.log("nihao")const f = 'he is so bad'  
+console.log("nihao")const f = 'good'  
